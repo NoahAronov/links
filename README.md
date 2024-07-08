@@ -1,5 +1,5 @@
-Built by [Hugo](https://github.com/gohugoio/hugo).
-Using [Lynx](https://github.com/jpanther/lynx/) theme.
-Hosted by [Cloudflare](https://pages.cloudflare.com/).
+Built by [Hugo](https://github.com/gohugoio/hugo). \
+Using [Lynx](https://github.com/jpanther/lynx/) theme. \
+Hosted by [Cloudflare](https://pages.cloudflare.com/). \
 
-[Project description]().
+[Further information]().
